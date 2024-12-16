@@ -1,0 +1,5 @@
+2024/12/12-11:22:28.655 4 Creating DB /home/linh/.config/chromium/Default/Local Storage/leveldb since it was missing.
+2024/12/12-11:22:28.687 4 Reusing MANIFEST /home/linh/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/12/12-11:22:54.640 5 Level-0 table #5: started
+2024/12/12-11:22:54.655 5 Level-0 table #5: 49545 bytes OK
+2024/12/12-11:22:54.663 5 Delete type=0 #3
